@@ -8,8 +8,10 @@ Tactical Command Center will be free and open-source, but I will not be releasin
 
 **Check out a early preview:**
 
-https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png
+
+![tactical-command-center-app](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png
+)
 
 ## Built for Touchscreen Tablets
 
-https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg
+![tactical-tablet](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg)
