@@ -1,40 +1,34 @@
 # tactical-nixos
 
-Tactical [NixOS](https://nixos.org/) is a custom [NixOS ISO](https://nixos.wiki/wiki/Creating_a_NixOS_live_CD) with pre-configured SDR software, Offline Mapping, Waydroid (Android Emulation), Wine (Windows Emulation), OSINT and Red Team Tools.
+I am creating a [NixOS ISO](https://nixos.wiki/wiki/Creating_a_NixOS_live_CD) with pre-configured SDR software, Offline Mapping, Waydroid (Android Emulation), Wine (Windows Emulation), OSINT and Red Team Tools. I'll be using Gnome for its ease of use and touchscreen compatibility. Users have the choice of changing anything in the configuration to their liking, I just want to provide a easy starting point for non-technical users.
 
-I will be using Gnome because it works great with touchscreen and easy to use for most folks out the box. But nothing is stopping you from editing the configuration and changing this.
+**Security First**
+I will not make the source code public for my applications until it's stable and secure.
 
-## Security is priority
+**Tactical Command Center**
+This is a central application launcher and manager, built with Tauri and Leptos. Current planned software includes:
 
-I will not be making the source code for these applications public until it is stable and secure. 
-
-## Tactical Command Center
-
-Tactical Command Center is a central application launcher and manager, it is being built using Tauri and Leptos.
-
-**Current Planned Software:**
-
-Mission Planning
-Secure Chat using [Reticulum Stack](https://github.com/markqvist/Reticulum)
-sUAS Command and Control
-Voice Cloning
-Radio Direction Finding
+* Mission Planning
+* Secure Chat using [Reticulum Stack](https://github.com/markqvist/Reticulum)
+* sUAS Command and Control
+* Voice Cloning
+* Radio Direction Finding
 
 **FPGA Encryption Integration**
+There will be an optional package to integrate FPGA encryption from [Kryptor FPGA](https://www.crowdsupply.com/skudo/kryptor-fpga) and using a Raspberry Pi for FPGA level encryption of my applications.
 
-There will be a optional package to integrate FPGA encryption versus software-based for my software. This is something my team will be using because we have a high privacy and security model. 
-
-[Kryptor FPGA](https://www.crowdsupply.com/skudo/kryptor-fpga)
+**Follow My Progress**
+You can follow my public progress here or on Twitter at [X (twitter)](https://twitter.com/sudo_ivan). Feel free to contact me if you have ideas to contribute or are interested in testing.
 
 ## Where to follow my progress
 
 For now, you can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you have ideas to contribute or are interested in testing.
 
-**Check out a early preview:**
+## Check out a early preview:
 
 
 ![tactical-command-center-app](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png)
 
-## Built for Touchscreen Tablets
+### Built for Touchscreen Tablets
 
 ![tactical-tablet](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg)
