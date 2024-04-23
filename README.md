@@ -1,18 +1,39 @@
 # tactical-nixos
 
-Tactical NixOS is a custom NixOS ISO with implemented SDR, Mapping, Waydroid, Wine, Bottles, OSINT and Red Team Tools.
+Tactical [NixOS](https://nixos.org/) is a custom [NixOS ISO](https://nixos.wiki/wiki/Creating_a_NixOS_live_CD) with pre-configured SDR software, Offline Mapping, Waydroid (Android Emulation), Wine (Windows Emulation), OSINT and Red Team Tools.
 
-I am using Gnome because it works great with touchscreen out the box.
+I will be using Gnome because it works great with touchscreen and easy to use for most folks out the box. But nothing is stopping you from editing the configuration and changing this.
 
-Tactical Command Center will be free and open-source, but I will not be making it public until it is stable and secure.
+## Security is priority
 
-You can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you want to contribute or are interested in testing.
+I will not be making the source code for these applications public until it is stable and secure. 
+
+## Tactical Command Center
+
+Tactical Command Center is a central application launcher and manager, it is being built using Tauri and Leptos.
+
+**Current Planned Software:**
+
+Mission Planning
+Secure Chat using [Reticulum Stack](https://github.com/markqvist/Reticulum)
+sUAS Command and Control
+Voice Cloning
+Radio Direction Finding
+
+**Hardware Encryption**
+
+There will be a optional package to integrate FPGA encryption versus software based for my software.
+
+[Kryptor FPGA](https://www.crowdsupply.com/skudo/kryptor-fpga)
+
+## Where to follow my progress
+
+You can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you have ideas to contribute or are interested in testing.
 
 **Check out a early preview:**
 
 
-![tactical-command-center-app](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png
-)
+![tactical-command-center-app](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tcc.png)
 
 ## Built for Touchscreen Tablets
 
