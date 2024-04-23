@@ -20,15 +20,15 @@ sUAS Command and Control
 Voice Cloning
 Radio Direction Finding
 
-**Hardware Encryption**
+**FPGA Encryption Integration**
 
-There will be a optional package to integrate FPGA encryption versus software based for my software.
+There will be a optional package to integrate FPGA encryption versus software-based for my software. This is something my team will be using because we have a high privacy and security model. 
 
 [Kryptor FPGA](https://www.crowdsupply.com/skudo/kryptor-fpga)
 
 ## Where to follow my progress
 
-You can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you have ideas to contribute or are interested in testing.
+For now, you can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you have ideas to contribute or are interested in testing.
 
 **Check out a early preview:**
 
