@@ -20,10 +20,6 @@ There will be an optional package to integrate FPGA encryption from [Kryptor FPG
 **Follow My Progress**
 You can follow my public progress here or on Twitter at [X (twitter)](https://twitter.com/sudo_ivan). Feel free to contact me if you have ideas to contribute or are interested in testing.
 
-## Where to follow my progress
-
-For now, you can follow my public progress here or on [X (twitter)](https://twitter.com/sudo_ivan), feel free to contact me if you have ideas to contribute or are interested in testing.
-
 ## Check out a early preview:
 
 
