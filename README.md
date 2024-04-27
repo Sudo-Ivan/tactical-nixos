@@ -28,3 +28,5 @@ You can follow my public progress here or on Twitter at [X (twitter)](https://tw
 ### Built for Touchscreen Tablets
 
 ![tactical-tablet](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/IMG_3710.jpg)
+
+![tacnix01](https://cdn.statically.io/gh/Sudo-Ivan/MyWebsite-Assets/main/images/tactical-tablets/tacnix/tacnix-preview01.png)
