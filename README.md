@@ -6,8 +6,9 @@ I am creating a [NixOS ISO](https://nixos.wiki/wiki/Creating_a_NixOS_live_CD) wi
 
 Still working on releasing v0.1 of iso and configuration
 
-(tacnix.quad4.io)[tacnix.quad4.io]
-(tacnix-cfg repo)[https://github.com/Quad4-Tactical/tacnix-cfg]
+[tacnix.quad4.io](tacnix.quad4.io)
+
+[tacnix-cfg repo](https://github.com/Quad4-Tactical/tacnix-cfg)
 
 **Security First**
 I will make sure to follow secure coding practices and isolate software where I can using MicroVMs or secured containerization. 
