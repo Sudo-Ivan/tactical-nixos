@@ -2,8 +2,15 @@
 
 I am creating a [NixOS ISO](https://nixos.wiki/wiki/Creating_a_NixOS_live_CD) with pre-configured SDR software, Offline Mapping, GPS, Docker, JS8Call, Waydroid (Android Emulation), Wine (Windows Emulation), OSINT and Red Team Tools. I'll be using Gnome for its ease of use and touchscreen compatibility. Users have the choice of changing anything in the configuration to their liking, I just want to provide a easy starting point for non-technical users.
 
+**Update 24MAY2024:**
+
+Still working on releasing v0.1 of iso and configuration
+
+(tacnix.quad4.io)[tacnix.quad4.io]
+(tacnix-cfg repo)[https://github.com/Quad4-Tactical/tacnix-cfg]
+
 **Security First**
-I will not make the source code public for my applications until it's stable and secure.
+I will make sure to follow secure coding practices and isolate software where I can using MicroVMs or secured containerization. 
 
 **Tactical Command Center**
 This is a central application launcher and manager, built with Tauri and Leptos. Current planned software includes:
